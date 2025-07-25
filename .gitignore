@@ -1,13 +1,20 @@
 # Application
 web/app/plugins/*
 !web/app/plugins/.gitkeep
-!web/app/plugins/ollie-pro
 web/app/mu-plugins/*/
 web/app/themes/twentytwentyfive/
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 web/app/cache/*
+!web/app/themes/ollie
+!web/app/plugins/ollie-pro
+!web/app/plugins/block-visibility
+!web/app/plugins/advanced-query-loop
+!web/app/plugins/icon-block
+!web/app/plugins/create-block-theme
+!web/app/plugins/custom-post-type-ui
+!web/app/plugins/performance-lab
 
 # WordPress
 web/wp
