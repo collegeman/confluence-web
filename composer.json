@@ -40,7 +40,9 @@
     "roots/wordpress": "6.8.2",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.2.0",
-    "wpackagist-theme/twentytwentyfive": "^1.0"
+    "wpackagist-theme/twentytwentyfive": "^1.0",
+    "wpackagist-plugin/duplicate-post": "4.5",
+    "wpackagist-plugin/redirection": "5.5.2"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
