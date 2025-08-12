@@ -43,8 +43,7 @@
     "wpackagist-theme/twentytwentyfive": "^1.0",
     "wpackagist-plugin/duplicate-post": "4.5",
     "wpackagist-plugin/redirection": "5.5.2",
-    "wpackagist-plugin/folders": "^3.1",
-    "wpackagist-plugin/givebutter": "^1.0"
+    "wpackagist-plugin/folders": "^3.1"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
