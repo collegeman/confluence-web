@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6c82cfa1feff0f264383403ea1b8074e",
+    "content-hash": "4e9679f611dc3b38de361f515c95a2bd",
     "packages": [
         {
             "name": "composer/installers",
@@ -1158,6 +1158,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/givebutter/"
+        },
+        {
+            "name": "wpackagist-plugin/google-site-kit",
+            "version": "1.159.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/google-site-kit/",
+                "reference": "tags/1.159.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/google-site-kit.1.159.0.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/google-site-kit/"
         },
         {
             "name": "wpackagist-plugin/redirection",
