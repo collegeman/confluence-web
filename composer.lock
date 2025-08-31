@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4e9679f611dc3b38de361f515c95a2bd",
+    "content-hash": "48eac31c635e4fadf715b241bd597866",
     "packages": [
         {
             "name": "composer/installers",
@@ -1194,6 +1194,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/redirection/"
+        },
+        {
+            "name": "wpackagist-plugin/uk-cookie-consent",
+            "version": "3.3.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/uk-cookie-consent/",
+                "reference": "tags/3.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/uk-cookie-consent.3.3.1.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/uk-cookie-consent/"
         },
         {
             "name": "wpackagist-theme/twentytwentyfive",
